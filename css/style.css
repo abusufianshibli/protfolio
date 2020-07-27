@@ -641,7 +641,7 @@ button:focus {
     border-color: #fff;
     background: #fff; }
     .feature_item:hover i:before {
-      background: linear-gradient(to right, #55cadf 10%, #703ad3 70%);
+      background: linear-gradient(to right, #2698ac 20%, #56caa4 50%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
 
